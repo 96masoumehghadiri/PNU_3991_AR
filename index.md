@@ -6,6 +6,4 @@
 - [مدرک جاوااسکریپت](https://github.com/96masoumehghadiri/PNU_3991_AR/blob/gh-pages/js-sololearn.jpg)
 <a name="Assessment"></a>
 
-[<kbd>↩</kbd>](#TOC)
-
 
